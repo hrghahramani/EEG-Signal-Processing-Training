@@ -20,3 +20,7 @@ This assignment focused on developing foundational knowledge of EEG signals, fre
 ## Status
 
 Completed
+
+## Report
+
+[View the assignment report](./Report.pdf)
