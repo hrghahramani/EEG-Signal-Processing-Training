@@ -138,3 +138,7 @@ Educational / Practical Training
 **Niyayesh Yousefi**
 
 Provided mentorship, technical guidance, practical instruction, task evaluation, and feedback throughout the EEG/ERP signal processing workflow.
+
+**Fateme Rezaei**
+
+Provided mentorship and practical support in EEG signal processing, preprocessing, and ICA-based analysis.
