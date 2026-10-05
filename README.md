@@ -135,10 +135,6 @@ Educational / Practical Training
 
 ## Mentor & Technical Guidance
 
-**Niyayesh Yousefi**
+**Bahar Moghimi**
 
-Provided mentorship, technical guidance, practical instruction, task evaluation, and feedback throughout the EEG/ERP signal processing workflow.
-
-**Fateme Rezaei**
-
-Provided mentorship and practical support in EEG signal processing, preprocessing, and ICA-based analysis.
+Provided mentorship and practical support in systematic review methodology, literature search, screening, data extraction, critical appraisal, and risk-of-bias assessment.
