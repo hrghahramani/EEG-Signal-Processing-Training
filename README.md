@@ -135,6 +135,13 @@ Educational / Practical Training
 
 ## Mentor & Technical Guidance
 
-**Bahar Moghimi**
+**Niyayesh Yousefi**
 
-Provided mentorship and practical support in systematic review methodology, literature search, screening, data extraction, critical appraisal, and risk-of-bias assessment.
+Provided mentorship and practical support in ERP analysis workflows and advanced EEG/ERP tasks.
+
+**Fateme Rezaei**
+
+Provided mentorship and practical support in EEG signal processing, preprocessing, and ICA-based analysis.
+
+
+
